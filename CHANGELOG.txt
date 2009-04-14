@@ -1,0 +1,10 @@
+0.3.0
+-----
+- Updated for PHP 5 (warning: interface change)
+- Slightly faster sine waveform generator
+- Bits per sample can be changed
+- Sawtooth and noise synthesis added
+
+0.2.0
+-----
+- Initial version
