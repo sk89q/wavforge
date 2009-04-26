@@ -1,7 +1,7 @@
 <?php // $Id$
 // WavForge example
 
-require_once "../WavForge.php";
+require_once "../src/WavForge.php";
 
 $wf = new WavForge();
 $wf->setBitsPerSample(16);
